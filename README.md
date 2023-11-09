@@ -2,7 +2,7 @@
 
 Preview:-
 
-![Uploading image.png…]()
+![image](https://github.com/kishore28kumar/weather-app/assets/139374121/3c90a863-5f40-4c27-935c-0075950dafdc)
 
 
 
